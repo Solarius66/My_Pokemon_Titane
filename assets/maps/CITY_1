@@ -1,0 +1,129 @@
+BOURG-JOY
+BG:
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+*****************!%%#***********************************
+*****************$%%-""""""""""""""#********************
+*****************'(,%%%%%%%%%%%%%%%-""""x""""""s""""""""
+*******************$%%%%%+(,%%%%%%%%%%%%w%%%%%%t%%%%%%%%
+*******************$%%%%%&*$%%%+((((((((v((((((u((((((((
+*******************$%%%%%-".%%%&************************
+********************%%%%%%%%%%%&************************
+********************%%%%%%%%%%%-"***********************
+*****************!""%%%+((((((,%%%%#********************
+*****************$%%%%%&******$%%%%&********************
+*****************'((((()******'(((()********************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+********************************************************
+COL:
+dcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdc
+^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a
+cdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcd
+a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^
+dcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdc
+^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a
+cdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcd
+a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^
+dcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdc
+^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a
+cdcdcdcdcdcdcdcdcdcdcdcdcdcdg`[`[`fdcdcdcdcdcdcdcdcdcdcd
+a^a^a^a^a^a^a^a^a^a^a^a^a^a^_JKLMN]^a^a^a^a^a^a^a^a^a^a^
+dcdcdcdcdcdcdcdg`[`[`[`[`[`[\EFGHIZfdcdcdcdcdcdcdcdcdcdc
+^a^a^a^a^a^a^a^_ -./0        @ABCD ]^a^a^a^a^a^a^a^a^a^a
+cdcdcdcdcdcdcdce %&'(        ;<=>? Zfdcdg`[`[`[`fdcdcdcd
+a^a^a^a^a^a^a^a^_!"#$        6789:  ]^a^_{||||} ]^a^a^a^
+dcdcdcdcdcdcdcdg\            12345Y Z[`[\xyyyyz Z[`[`[`[
+^a^a^a^a^a^a^a^_                         xyyyyz         
+cdcdcdcdcdcdcdce                         uvvvvw         
+a^a^a^a^a^a^a^a^_         X              rsssst         
+dcdcdcdcdcdcdcdg\                    liiioppppqiiiiiiiii
+^a^a^a^a^a^a^a^_ -./0           -./0 k   ]^a^a^a^a^a^a^a
+cdcdcdcdcdcdcdce %&'(           %&'( k   bcdcdcdcdcdcdcd
+a^a^a^a^a^a^a^a^_!"#$Y          !"#$ k]^a^a^a^a^a^a^a^a^
+dcdcdcdcdcdcdcdg\       OPPPPQ      ljbcdcdcdcdcdcdcdcdc
+^a^a^a^a^a^a^a^_        RSSSST      k]^a^a^a^a^a^a^a^a^a
+cdcdcdcdcdcdcdceiiiiiiinRSSSSTliiiiijbcdcdcdcdcdcdcdcdcd
+a^a^a^a^a^a^a^a^a^a^a^_kUVVVVWk ]^a^a^a^a^a^a^a^a^a^a^a^
+dcdcdcdcdcdcdcdcdcdcdcehiiiiiij bcdcdcdcdcdcdcdcdcdcdcdc
+^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a
+cdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcd
+a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^
+dcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdc
+^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a
+cdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcdcd
+a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^a^
+TOP:
+
+
+
+
+
+
+
+
+
+
+                             %&'()
+
+                 !"#$
+
+                1
+                                  2
+
+
+                1
+
+                 !"#$           !"#$     -./././././././
+
+                1    2                -./
+                     
+                                     -
+
+                /././.1         -././
+
+                       /././././
+END
+assets/textures/tiling/ground.png
+assets/textures/tiling/colvillage.png
+assets/textures/tiling/topvillage.png
+N;0;0
+S;0;0
+O;0;0
+E;40;18
+null
+null
+null
+ROAD;0;16;32
+TRAINERS:
+NULL
+POKEMONS:
+NULL
+SIGNS:
+NULL
+ARENA:
+NULL
+CENTER:
+3;14
+SHOP:
+NULL

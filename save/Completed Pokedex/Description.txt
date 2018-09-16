@@ -1,0 +1,1 @@
+Cette partie contient le Pokédex que peut avoir un joueur si il rencontre tout les Pokémons du jeu. Vous pouvez accéder au Pokédex dans le menu pause.
